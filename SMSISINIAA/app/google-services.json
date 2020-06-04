@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217127904759",
+    "firebase_url": "https://sms-isiniaa.firebaseio.com",
+    "project_id": "sms-isiniaa",
+    "storage_bucket": "sms-isiniaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217127904759:android:c429df8d6e50d2985fbaf2",
+        "android_client_info": {
+          "package_name": "com.isiniaa.smsisiniaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217127904759-kba8gahtl2tmqdti93pgh7ogfhtunb0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isiniaa.smsisiniaa",
+            "certificate_hash": "2ef9443269c1dfb8c38010ad11abcb418223c485"
+          }
+        },
+        {
+          "client_id": "217127904759-1mnqmmiqftvgkki4pj4rp54so4bbcln3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr5i5L2hE9UMWPqVdry6_vpetnhAfcqeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217127904759-1mnqmmiqftvgkki4pj4rp54so4bbcln3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
